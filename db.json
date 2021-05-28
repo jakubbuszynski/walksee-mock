@@ -1,8 +1,19 @@
 {
-  "posts": [
+  "panos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "hello",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "hello",
+      "url": ""
     }
   ],
   "profile": {
